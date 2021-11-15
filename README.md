@@ -7,5 +7,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with social life
 - 💬 Ask me about anything
 - 📫 How to reach me: marcelo.v.esser@gmail.com (https://play.google.com/store/apps/developer?id=Marcelo+Esser)
-- ⚡ Fun fact: i don't like tomatos >:C
 
