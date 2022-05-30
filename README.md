@@ -29,9 +29,10 @@ Me chamo Marcelo, tenho 22 anos de idade, sou de Canoas, RS. Sou desenvolvedor m
   
 </details>
 
-### **Contato**
+### **Onde me achar**
 
-[![Google](https://img.shields.io/badge/-Google-white?style=for-the-badge&logo=Google&logoColor=red)](https://g.dev/marcelao)
+[![Google](https://img.shields.io/badge/-Developer-white?style=for-the-badge&logo=Google&logoColor=red)](https://g.dev/marcelao)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-esser/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcelo.v.esser@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/marcelo_esser)
+[![Playstore](https://img.shields.io/badge/-Playstore-green?style=for-the-badge&logo=Google+Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Marcelo+Esser)
