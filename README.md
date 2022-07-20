@@ -2,7 +2,8 @@
 
 ### Olá! 
 Me chamo Marcelo, tenho 22 anos de idade, sou de Canoas, RS. Sou desenvolvedor mobile a um pouco mais de quatro anos. Nesse tempo já atuei com React Native, Ionic, Flutter, iOS (swift) e Android (Java e Kotlin), sendo os que eu escolhi para seguir minha carreira Flutter e Android.
-<br>Desde pequeno sou apaixonado por matemática e astronomia, pela ciência como um todo (por isso também curso Ciências da computação).
+<br>Desde pequeno sou apaixonado por matemática e astronomia, pela ciência como um todo.
+<br>Atualmente estou cursando Engenharia de Software e estudando inglês (intermediário).
 <br>Nos meus momentos de lazer gosto principalmente de ler (ficção cientifica mais especificamente) e as vezes jogo um pouco também.
 <br>O Resto vocês podem descobrir entrando em contado comigo ou explorando os meus repositórios disponíveis! 🥳
 
