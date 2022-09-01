@@ -1,5 +1,7 @@
 # 🥰 Marcelo Esser
 
+[:star: Portuguese overview :star:](https://github.com/MarceloEsser/MarceloEsser/blob/main/README-en.md)
+
 ### Hi! 
 My name is Marcelo, I am twenty two years old and I am from Brazil, Canoas-RS. I am a mobile software engineer since since I was eighteen.
 <br>In that time I've worked with React Native, Ionic, Flutter, iOS (swift) and Android (Java and Kotlin), being the ones I chose to pursue my career: Flutter and Android.
@@ -14,7 +16,11 @@ My name is Marcelo, I am twenty two years old and I am from Brazil, Canoas-RS. I
 ![Flutter](https://img.shields.io/badge/Flutter-blue.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Cloud-white.svg?style=for-the-badge&logo=Google-Cloud&logoColor=red)
 
+### **My status**
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloEsser&theme=light)
+
+![](https://github-readme-stats.vercel.app/api?username=MarceloEsser&show_icons=true&theme=light)
 
 ### **Where to find me**
 
