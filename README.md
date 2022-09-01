@@ -15,11 +15,11 @@ Me chamo Marcelo, tenho vinte e dois anos, sou de Canoas - RS. Sou desenvolvedor
 ![Flutter](https://img.shields.io/badge/Flutter-blue.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Cloud-white.svg?style=for-the-badge&logo=Google-Cloud&logoColor=red)
 
-### **📊 Stats about me**
+### **Meus Status**
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloEsser&theme=light)
 
-![](https://github-readme-stats.vercel.app/api?username=MarceloEsser&show_icons=true&hide=contribs&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=MarceloEsser&show_icons=true&theme=light)
 
 ### **Onde me achar**
 
