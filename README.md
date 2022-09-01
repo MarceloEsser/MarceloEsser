@@ -1,4 +1,4 @@
-# 🥰 Marcelo Esser - App developer
+# 🥰 Marcelo Esser
 
 ### Olá! 
 Me chamo Marcelo, tenho 22 anos de idade, sou de Canoas, RS. Sou desenvolvedor mobile a um pouco mais de quatro anos. Nesse tempo já atuei com React Native, Ionic, Flutter, iOS (swift) e Android (Java e Kotlin), sendo os que eu escolhi para seguir minha carreira Flutter e Android.
@@ -15,16 +15,6 @@ Me chamo Marcelo, tenho 22 anos de idade, sou de Canoas, RS. Sou desenvolvedor m
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloEsser&theme=light)
-
-
-<details><summary><b>Outras informações</b></summary>
-  
-  
-  - [Gists](https://gist.github.com/MarceloEsser)
-  - [Repositórios](https://github.com/MarceloEsser?tab=repositories)
-  
-  
-</details>
 
 ### **Onde me achar**
 
