@@ -1,9 +1,9 @@
 # 🥰 Marcelo Esser
 
 ### Olá! 
-Me chamo Marcelo, tenho 22 anos de idade, sou de Canoas, RS. Sou desenvolvedor mobile a um pouco mais de quatro anos. Nesse tempo já atuei com React Native, Ionic, Flutter, iOS (swift) e Android (Java e Kotlin), sendo os que eu escolhi para seguir minha carreira Flutter e Android.
+Me chamo Marcelo, tenho vinte e dois anos, sou de Canoas - RS. Sou desenvolvedor mobile desde os dezoito anos. Nesse tempo já atuei com React Native, Ionic, Flutter, iOS (swift) e Android (Java e Kotlin), sendo os que eu escolhi para seguir minha carreira: Flutter e Android.
 <br>Desde pequeno sou apaixonado por matemática e astronomia, pela ciência como um todo.
-<br>Atualmente estou cursando Engenharia de Software e estudando inglês (intermediário).
+<br>Atualmente estou cursando Ciência da computação e estudando inglês (intermediário).
 <br>Nos meus momentos de lazer gosto principalmente de ler (ficção cientifica mais especificamente) e as vezes jogo um pouco também.
 <br>O Resto vocês podem descobrir entrando em contado comigo ou explorando os meus repositórios disponíveis! 🥳
 
@@ -12,7 +12,6 @@ Me chamo Marcelo, tenho 22 anos de idade, sou de Canoas, RS. Sou desenvolvedor m
 ![iOS](https://img.shields.io/badge/iOS-black.svg?style=for-the-badge&logo=Swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-blue.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Cloud-white.svg?style=for-the-badge&logo=Google-Cloud&logoColor=red)
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloEsser&theme=light)
 
