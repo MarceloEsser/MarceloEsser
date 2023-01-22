@@ -33,9 +33,14 @@ My name is Marcelo, I am twenty two years old and I am from Brazil, Canoas-RS. I
 ![Sonar](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=flat&logo=sonarcloud&logoColor=white)
 
 ### **Where to find me**
-[![Google](https://img.shields.io/badge/-Developer-white?style=for-the-badge&logo=Google&logoColor=red)](https://g.dev/marcelao)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/4785)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-esser/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.v.esser@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marcelo_esser)
-[![Playstore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Marcelo+Esser)
+[![Google](https://img.shields.io/badge/-Developer-white?style=social&logo=Google&logoColor=red)](https://g.dev/marcelao)
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=social&logo=discord&logoColor=7289DA)](https://discordapp.com/users/4785)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/marcelo-esser/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=D14836)](mailto:marcelo.v.esser@gmail.com)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter&logoColor=1DA1F2)](https://twitter.com/marcelo_esser)
+
+[![Playstore](https://img.shields.io/badge/Google_Play-414141?style=social&logo=google-play&logoColor=414141)](https://play.google.com/store/apps/developer?id=Marcelo+Esser)
