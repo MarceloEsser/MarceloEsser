@@ -1,15 +1,17 @@
 # 🥰 Marcelo Esser
 
-[:star: English overview :star:](https://github.com/MarceloEsser/MarceloEsser/blob/main/README-en.md)
+Senior software engineer with 6+ years of experience building scalable applications. Currently at ADP Brazil Labs, I focus on backend architecture, AI integration, and cloud infrastructure. Started in mobile development, leading teams building cross-platform apps in Swift, Kotlin, Flutter, and React Native for clients including major financial institutions. Managed complete app lifecycles, CI/CD pipelines, and mentored junior developers.
 
-### Olá! 
-Me chamo Marcelo, tenho vinte e dois anos, sou de Canoas - RS. Sou desenvolvedor mobile desde os dezoito anos. Nesse tempo já atuei com React Native, Ionic, Flutter, iOS (swift) e Android (Java e Kotlin), sendo os que eu escolhi para seguir minha carreira: Flutter e Android.
-<br>Desde pequeno sou apaixonado por matemática e astronomia, pela ciência como um todo.
-<br>Atualmente estou cursando Ciência da computação e estudando inglês (intermediário).
-<br>Nos meus momentos de lazer gosto principalmente de ler (ficção cientifica mais especificamente) e as vezes jogo um pouco também.
-<br>O Resto vocês podem descobrir entrando em contado comigo ou explorando os meus repositórios disponíveis! 🥳
+Transitioned to backend and AI, applying my mobile expertise to build robust, scalable systems. I've successfully migrated legacy systems, standardized development patterns adopted across multiple teams, and reduced system complexity while increasing reliability.
 
-### **Stack**
+## What I Do:
+- Design AI-powered features and intelligent document generation systems using MCP servers
+- Architect cloud solutions on AWS with Infrastructure as Code (IaC)
+- Build real-time data streaming pipelines with Kafka
+- Optimize system performance through multi-layer caching and database architecture
+- Lead AI Guild initiatives, connecting language models with internal systems for enhanced developer productivity
+
+## **Stack**
 ![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)
 ![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)
 
