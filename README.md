@@ -1,6 +1,6 @@
 # 🥰 Marcelo Esser
 
-Senior software engineer with 6+ years of experience building scalable applications. Currently at ADP Brazil Labs, I focus on backend architecture, AI integration, and cloud infrastructure. Started in mobile development, leading teams building cross-platform apps in Swift, Kotlin, Flutter, and React Native for clients including major financial institutions. Managed complete app lifecycles, CI/CD pipelines, and mentored junior developers.
+Senior software engineer with 7+ years of experience building scalable applications. Currently at ADP Brazil Labs, I focus on backend architecture, AI integration, and cloud infrastructure. Started in mobile development, leading teams building cross-platform apps in Swift, Kotlin, Flutter, and React Native for clients including major financial institutions. Managed complete app lifecycles, CI/CD pipelines, and mentored junior developers.
 
 Transitioned to backend and AI, applying my mobile expertise to build robust, scalable systems. I've successfully migrated legacy systems, standardized development patterns adopted across multiple teams, and reduced system complexity while increasing reliability.
 
